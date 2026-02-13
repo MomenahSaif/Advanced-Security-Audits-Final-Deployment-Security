@@ -193,9 +193,3 @@ Returned empty user object when unauthenticated, demonstrating correct session v
 - Manual penetration testing performed and documented.
 - Vulnerabilities identified with risk classification and remediation guidance.
 
----
-
-## Disclaimer
-
-OWASP Juice Shop is intentionally designed to be vulnerable for educational purposes.  
-All testing was conducted in a controlled local lab environment strictly for cybersecurity training and security auditing practice.
